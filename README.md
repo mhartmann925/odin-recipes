@@ -1,1 +1,2 @@
-<!-- This is my first project which is creating a recipe site for the Odin Project>
+# Recipes - Website
+My first project with Odin Project. A recipes website.
